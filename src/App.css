@@ -1,0 +1,14 @@
+select {
+  border: none;
+  font-weight: bold;  
+}
+
+option {
+  font-weight: bold;
+}
+
+.cal {
+  border: none;
+}
+
+

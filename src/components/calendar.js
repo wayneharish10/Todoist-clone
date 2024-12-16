@@ -262,7 +262,7 @@ export default function Calendar({daylist}) {
     }
 
 
-const DEFAULT_CARDS = [{title: "Complete this todo", id: "1", column: "240915" },
+const DEFAULT_CARDS = [{title: "Complete todo", id: "1", column: "240915" },
     {title: "Implement drag and drop feature", id: "2", column: "240915" },
     {title: "Something to fill", id: "3", column: "240914" }
 
